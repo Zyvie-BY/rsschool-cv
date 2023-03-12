@@ -10,11 +10,21 @@
 * Bootstrap, Swiper </br>
 * VS Code, Git, GitHub </br>
 * Figma, Photoshop, CorelDRAW </br>
-## About Me ##
-## Code example: ##
+## About me: ##
+<p>Over 14 years experience in design. Development of flyers, business cards, banners, stickers for transport. Extensive experience in Photoshop, CorelDRAW, Figma.</p>
 
-[This is the code snippet I used in my project. Accepts parameters FORM and JSON. Outputs Swiperjs](https://awer17.github.io/Nails_club/
-)
+## Interest: ##
+<p>photography, chess, auto-travel.</p>
+
+## Courses ##
+* "Website development using HTML, CSS and JavaScript". it-academy Minsk. November 2021- March 2022 [Diploma]().</br>**COMPLETED**
+* "Developing Web Applications with JavaScript". it-academy Minsk. November 2021- March 2022. </br>
+*In connection with the move, I did not have time to defend my diploma.* </br>**COMPLETED**
+* English language course based on Cherokee Trail High School. From January 2023. </br> *IN PROGRESS*
+* RS Schools JavaScript/Front-end. From March 2023. </br> *IN PROGRESS*
+
+## Code example: ##
+[This is the code snippet I used in my project. Accepts parameters FORM and JSON. Outputs Swiperjs](https://awer17.github.io/Nails_club/)
 
 ```
 function initSliders() {
