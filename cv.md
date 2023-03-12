@@ -3,7 +3,7 @@
 ## Contact information: ##
 * **Email:** awer100@gmail.com </br>
 * **Phone:** +1 (720) 869-1895 </br>
-* **Discord** zyvie-by#3664 </br>
+* **Discord:** zyvie-by#3664 </br>
 [Linkedin](https://www.linkedin.com/in/siarhei-siarheyeu-339463170/)
 ## Skills and Proficiency: ##
 * HTML5, CSS3, SCSS </br>
