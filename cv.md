@@ -1,15 +1,15 @@
 # Siarhei Siarheyeu #
 ### Junior Frontend Developer ###
 ## Contact information: ##
-* **Email:** awer100@gmail.com </br>
-* **Phone:** +1 (720) 869-1895 </br>
-* **Discord:** zyvie-by#3664 </br>
+* **Email:** awer100@gmail.com 
+* **Phone:** +1 (720) 869-1895 
+* **Discord:** zyvie-by#3664 
 [Linkedin](https://www.linkedin.com/in/siarhei-siarheyeu-339463170/)
 ## Skills and Proficiency: ##
-* HTML5, CSS3, SCSS </br>
-* Bootstrap, Swiper </br>
-* VS Code, Git, GitHub </br>
-* Figma, Photoshop, CorelDRAW </br>
+* HTML5, CSS3, SCSS 
+* Bootstrap, Swiper 
+* VS Code, Git, GitHub 
+* Figma, Photoshop, CorelDRAW 
 ## About me: ##
 <p>Over 14 years experience in design. Development of flyers, business cards, banners, stickers for transport. Extensive experience in Photoshop, CorelDRAW, Figma.</p>
 
@@ -17,11 +17,15 @@
 <p>photography, chess, auto-travel.</p>
 
 ## Courses ##
-* "Website development using HTML, CSS and JavaScript". it-academy Minsk. November 2021- March 2022 [Diploma]().</br>**COMPLETED**
-* "Developing Web Applications with JavaScript". it-academy Minsk. November 2021- March 2022. </br>
-*In connection with the move, I did not have time to defend my diploma.* </br>**COMPLETED**
-* English language course based on Cherokee Trail High School. From January 2023. </br> *IN PROGRESS*
-* RS Schools JavaScript/Front-end. From March 2023. </br> *IN PROGRESS*
+* "Website development using HTML, CSS and JavaScript". it-academy Minsk. November 2021- March 2022 [Diploma](/certificate.pdf).
+**COMPLETED**
+* "Developing Web Applications with JavaScript". it-academy Minsk. November 2021- March 2022.
+*In connection with the move, I did not have time to defend my diploma.*
+**COMPLETED**
+* English language course based on Cherokee Trail High School. From January 2023.
+*IN PROGRESS*
+* RS Schools JavaScript/Front-end. From March 2023.
+*IN PROGRESS*
 
 ## Code example: ##
 [This is the code snippet I used in my project. Accepts parameters FORM and JSON. Outputs Swiperjs](https://awer17.github.io/Nails_club/)
